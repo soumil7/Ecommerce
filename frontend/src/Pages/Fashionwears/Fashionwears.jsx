@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
-import './FashionWears.css';
+import './Fashionwears.css';
 import { FaBookmark, FaRegBookmark } from 'react-icons/fa';
 import FilterButton from '../../Components/FilterButton/FilterButton';
 
